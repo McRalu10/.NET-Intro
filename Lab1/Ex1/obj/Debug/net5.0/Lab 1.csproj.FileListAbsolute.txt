@@ -14,3 +14,19 @@ D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.dll
 D:\Intro to .NET\Lab 1\obj\Debug\net5.0\ref\Lab 1.dll
 D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.pdb
 D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.genruntimeconfig.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.csproj.AssemblyReference.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.AssemblyInfoInputs.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.AssemblyInfo.cs
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.csproj.CoreCompileInputs.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\ref\Lab 1.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.pdb
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\bin\Debug\net5.0\Lab 1.exe
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\bin\Debug\net5.0\Lab 1.deps.json
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\bin\Debug\net5.0\Lab 1.runtimeconfig.json
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\bin\Debug\net5.0\Lab 1.runtimeconfig.dev.json
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\bin\Debug\net5.0\Lab 1.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\bin\Debug\net5.0\ref\Lab 1.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\bin\Debug\net5.0\Lab 1.pdb
+G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\obj\Debug\net5.0\Lab 1.genruntimeconfig.cache

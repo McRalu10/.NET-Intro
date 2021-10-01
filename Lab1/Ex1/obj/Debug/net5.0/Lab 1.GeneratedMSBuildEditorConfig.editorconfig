@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Lab_1
+build_property.ProjectDir = G:\Facultate\Anul III - Sem I\I .NET\Lab 1\.NET-Intro\Lab1\Ex1\
