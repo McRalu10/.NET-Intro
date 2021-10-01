@@ -1,6 +1,7 @@
 ﻿using System;
 using ManagerClass;
 using ArchitectClass;
+using EmployeeClass;
 
 namespace Lab_1
 {
@@ -17,6 +18,7 @@ namespace Lab_1
 
             DateTime current = DateTime.Now;
             Console.WriteLine(manager.IsActive(current) + "\n");
+            Console.WriteLine(manager.Salutation() + "\n");
 
             //Architect
             Architect architect = new Architect("Ana", "Stan");
@@ -26,6 +28,7 @@ namespace Lab_1
             architect._EndDate = new DateTime(2022, 7, 1, 8, 0, 0);
 
             Console.WriteLine(architect.IsActive(current) + "\n");
+            Console.WriteLine(architect.Salutation() + "\n");
         }
     }
 }
