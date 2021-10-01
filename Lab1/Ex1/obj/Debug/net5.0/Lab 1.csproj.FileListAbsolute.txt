@@ -1,0 +1,16 @@
+D:\Intro to .NET\Lab 1\bin\Debug\net5.0\Lab 1.exe
+D:\Intro to .NET\Lab 1\bin\Debug\net5.0\Lab 1.deps.json
+D:\Intro to .NET\Lab 1\bin\Debug\net5.0\Lab 1.runtimeconfig.json
+D:\Intro to .NET\Lab 1\bin\Debug\net5.0\Lab 1.runtimeconfig.dev.json
+D:\Intro to .NET\Lab 1\bin\Debug\net5.0\Lab 1.dll
+D:\Intro to .NET\Lab 1\bin\Debug\net5.0\ref\Lab 1.dll
+D:\Intro to .NET\Lab 1\bin\Debug\net5.0\Lab 1.pdb
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.csprojAssemblyReference.cache
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.AssemblyInfoInputs.cache
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.AssemblyInfo.cs
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.csproj.CoreCompileInputs.cache
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.dll
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\ref\Lab 1.dll
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.pdb
+D:\Intro to .NET\Lab 1\obj\Debug\net5.0\Lab 1.genruntimeconfig.cache
