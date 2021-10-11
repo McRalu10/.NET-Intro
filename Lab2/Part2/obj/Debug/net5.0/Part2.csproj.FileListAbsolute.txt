@@ -1,0 +1,16 @@
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.csproj.AssemblyReference.cache
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.AssemblyInfoInputs.cache
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.AssemblyInfo.cs
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.csproj.CoreCompileInputs.cache
+D:\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.exe
+D:\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.deps.json
+D:\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.runtimeconfig.json
+D:\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.runtimeconfig.dev.json
+D:\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.dll
+D:\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\ref\Part2.dll
+D:\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.pdb
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.dll
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\ref\Part2.dll
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.pdb
+D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.genruntimeconfig.cache
