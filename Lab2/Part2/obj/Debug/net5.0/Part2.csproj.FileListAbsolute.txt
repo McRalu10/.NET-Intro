@@ -14,3 +14,19 @@ D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.dll
 D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\ref\Part2.dll
 D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.pdb
 D:\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.genruntimeconfig.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.exe
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.deps.json
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.runtimeconfig.json
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.runtimeconfig.dev.json
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\ref\Part2.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\bin\Debug\net5.0\Part2.pdb
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.csproj.AssemblyReference.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.AssemblyInfoInputs.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.AssemblyInfo.cs
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.csproj.CoreCompileInputs.cache
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\ref\Part2.dll
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.pdb
+G:\Facultate\Anul III - Sem I\I .NET\Lab\.NET-Intro\Lab2\Part2\obj\Debug\net5.0\Part2.genruntimeconfig.cache
