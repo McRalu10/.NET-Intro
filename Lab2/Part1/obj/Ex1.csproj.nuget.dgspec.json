@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Facultate\\Anul III - Sem I\\I .NET\\Lab\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj": {}
+    "D:\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj": {}
   },
   "projects": {
-    "G:\\Facultate\\Anul III - Sem I\\I .NET\\Lab\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj": {
+    "D:\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Facultate\\Anul III - Sem I\\I .NET\\Lab\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj",
+        "projectUniqueName": "D:\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj",
         "projectName": "Ex1",
-        "projectPath": "G:\\Facultate\\Anul III - Sem I\\I .NET\\Lab\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj",
-        "packagesPath": "C:\\Users\\Alee\\.nuget\\packages\\",
-        "outputPath": "G:\\Facultate\\Anul III - Sem I\\I .NET\\Lab\\.NET-Intro\\Lab2\\Ex1\\obj\\",
+        "projectPath": "D:\\.NET-Intro\\Lab2\\Ex1\\Ex1.csproj",
+        "packagesPath": "C:\\Users\\Raluca\\.nuget\\packages\\",
+        "outputPath": "D:\\.NET-Intro\\Lab2\\Ex1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alee\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Raluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
