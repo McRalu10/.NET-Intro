@@ -1,0 +1,11 @@
+1. To what extent did the design decisions you made when writing the original programs make it easier or harder to factor out common code?
+
+It was quite easy to factor out common code, we only had to change the variable names mostly to be more generic, but the classes and methods were otherwise unchanged mostly.
+
+2. Was the way you wrote the second program influenced by writing the first?
+
+Yes, the second program had the same structure as the first.
+
+3. Is factoring out as much common code as possible always a good thing? Did the readability of the programs suffer because of this requirement? How about the maintainability?
+
+Factoring is useful because you don't write the same code twice or more times, but sometimes there are some differences between the programs and you have to make sure that you cover every specific difference, otherwise you will get errors.
