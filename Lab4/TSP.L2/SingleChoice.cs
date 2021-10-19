@@ -2,37 +2,36 @@
 
 namespace SOLID.OCP
 {
-    public enum BankTerminalModel
-    {
-        Brp,
-        Dcp
-    }
-
-    public interface IBankTerminal
+    abstract public class BankTerminal
     {
     }
 
-    public class BankTerminalFactory
+    public class BrpTerminal : BankTerminal
     {
-        public static IBankTerminal CreateBankTerminal(BankTerminalModel model)
+    }
+
+    public class DcpTerminal : BankTerminal
+    {
+    }
+
+    abstract public class BankTerminalFactory
+    {
+        public abstract BankTerminal CreateBankTerminal();
+    }
+
+    public class Brp : BankTerminalFactory
+    {
+        public override BankTerminal CreateBankTerminal()
         {
-            switch (model)
-            {
-                case BankTerminalModel.Brp:
-                    return new BrpTerminal();
-                case BankTerminalModel.Dcp:
-                    return new DcpTerminal();
-                default:
-                    throw new ArgumentException("Unknown model");
-            }
+            return new BrpTerminal();
         }
     }
 
-    public class BrpTerminal : IBankTerminal
+    public class Dcp : BankTerminalFactory
     {
-    }
-
-    public class DcpTerminal : IBankTerminal
-    {
+        public override BankTerminal CreateBankTerminal()
+        {
+            return new DcpTerminal();
+        }
     }
 }
